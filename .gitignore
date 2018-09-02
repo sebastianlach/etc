@@ -1,0 +1,34 @@
+# secrets
+/shadow
+/dhcpcd.secret
+/pacman.d/gnupg
+/docker/key.json
+
+# mounting
+/fstab
+
+# networking
+/hosts
+/hostname
+/resolv.conf
+/netctl/wireless-*
+
+# certificates
+/ca-certificates/*
+/ssl/certs/*
+
+# timezone
+/localtime
+
+# caches
+/ld.so.cache
+
+# backups
+/passwd-
+/shadow-
+/gshadow-
+/group-
+
+# hidden
+/.updated
+/.pwd.lock
