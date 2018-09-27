@@ -46,13 +46,13 @@ __vte_ps1() {
 }
 
 __vte_osc7 () {
-  printf "\033]7;file://%s%s\007" "${HOSTNAME:-}" "$(__vte_urlencode "${PWD}")"
+  printf "\033]7;file://%s%s\033\\" "${HOSTNAME:-}" "$(__vte_urlencode "${PWD}")"
 }
 
 __vte_prompt_command() {
   local pwd='~'
   [ "$PWD" != "$HOME" ] && pwd=${PWD/#$HOME\//\~\/}
-  printf "\033]0;%s@%s:%s\007%s" "${USER}" "${HOSTNAME%%.*}" "${pwd}" "$(__vte_osc7)"
+  printf "\033]0;%s@%s:%s\033\\%s" "${USER}" "${HOSTNAME%%.*}" "${pwd}" "$(__vte_osc7)"
 }
 
 case "$TERM" in
