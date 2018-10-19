@@ -1,3 +1,4 @@
-arch2go ALL=(ALL) ALL
+Defaults timestamp_timeout=0
+%wheel ALL=(ALL) ALL
 
 
