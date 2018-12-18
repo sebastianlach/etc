@@ -5,7 +5,6 @@ community/autossh 1.4f-1
 community/aws-cli 1.16.72-1
 community/dmenu 4.8-1
 community/docker 1:18.09.0-2
-community/gdal 2.3.2-6
 community/httpie 1.0.2-1
 community/i3lock 2.11.1-1
 community/i3status 2.12-1
