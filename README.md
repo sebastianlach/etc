@@ -1,4 +1,4 @@
-# etc2go
+# archstrap-etc
 
 ```bash
 locale-gen
