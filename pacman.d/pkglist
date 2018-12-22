@@ -2,7 +2,7 @@ community/android-tools 9.0.0_r18-1
 community/android-udev 20181031-1
 community/ansible 2.7.5-1
 community/autossh 1.4f-1
-community/aws-cli 1.16.72-1
+community/aws-cli 1.16.79-1
 community/dmenu 4.8-1
 community/docker 1:18.09.0-2
 community/httpie 1.0.2-1
@@ -63,8 +63,8 @@ core/jfsutils 1.1.15-6
 core/less 530-1
 core/licenses 20181104-1
 core/links 2.17-1
-core/linux 4.19.10.arch1-1
-core/linux-headers 4.19.10.arch1-1
+core/linux 4.19.11.arch1-1
+core/linux-headers 4.19.11.arch1-1
 core/linux-lts 4.14.89-1
 core/logrotate 3.15.0-1
 core/lvm2 2.02.183-1
