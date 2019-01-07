@@ -2,13 +2,12 @@ community/android-tools 9.0.0_r18-1
 community/android-udev 20181031-1
 community/ansible 2.7.5-1
 community/autossh 1.4f-1
-community/aws-cli 1.16.79-1
 community/dmenu 4.8-1
 community/docker 1:18.09.0-2
 community/go-ethereum 1.8.20-1
 community/httpie 1.0.2-1
 community/i3lock 2.11.1-1
-community/i3status 2.12-1
+community/i3status 2.12-2
 community/i3-wm 4.16-1
 community/iftop 1.0pre4-3
 community/iotop 0.6-6
@@ -26,12 +25,12 @@ community/ristretto 0.8.3-1
 community/scrot 0.8.18-1
 community/tmux 2.8-1
 community/xsel 1.2.0.20160929-2
-community/youtube-dl 2018.12.17-1
+community/youtube-dl 2019.01.02-1
 community/zsh-syntax-highlighting 0.6.0-1
 core/autoconf 2.69-5
 core/automake 1.16.1-1
 core/bash 4.4.023-1
-core/binutils 2.31.1-3
+core/binutils 2.31.1-4
 core/bison 3.2-1
 core/btrfs-progs 4.19.1-1
 core/bzip2 1.0.6-8
@@ -41,7 +40,7 @@ core/cryptsetup 2.0.6-1
 core/device-mapper 2.02.183-1
 core/dhcpcd 7.0.8-1
 core/dialog 1:1.3_20181107-1
-core/diffutils 3.6-2
+core/diffutils 3.7-1
 core/dosfstools 4.1-2
 core/e2fsprogs 1.44.5-1
 core/efibootmgr 16-1
@@ -55,7 +54,7 @@ core/gcc-libs 8.2.1+20181127-1
 core/gettext 0.19.8.1-3
 core/glibc 2.28-5
 core/grep 3.3-1
-core/gzip 1.9-2
+core/gzip 1.10-1
 core/inetutils 1.9.4-6
 core/iproute2 4.19.0-1
 core/iputils 20180629.f6aac8d-2
@@ -64,9 +63,9 @@ core/jfsutils 1.1.15-6
 core/less 530-1
 core/licenses 20181104-1
 core/links 2.17-1
-core/linux 4.19.12.arch1-1
-core/linux-headers 4.19.12.arch1-1
-core/linux-lts 4.14.90-1
+core/linux 4.20.arch1-1
+core/linux-headers 4.20.arch1-1
+core/linux-lts 4.19.13-1
 core/logrotate 3.15.0-1
 core/lvm2 2.02.183-1
 core/make 4.2.1-3
@@ -85,7 +84,7 @@ core/procps-ng 3.3.15-1
 core/psmisc 23.2-1
 core/reiserfsprogs 3.6.27-2
 core/sed 4.7-1
-core/shadow 4.6-1
+core/shadow 4.6-2
 core/sudo 1.8.26-2
 core/sysfsutils 2.1.0-10
 core/syslinux 6.03-11
@@ -97,7 +96,7 @@ core/util-linux 2.33-2
 core/vi 1:070224-3
 core/which 2.21-3
 core/wpa_actiond 1.4-3
-core/wpa_supplicant 1:2.6-12
+core/wpa_supplicant 2:2.6-1
 core/xfsprogs 4.19.0-1
 extra/alsa-plugins 1.1.7-3
 extra/alsa-utils 1.1.7-1
@@ -105,7 +104,7 @@ extra/arch-install-scripts 20-1
 extra/archiso 40-1
 extra/archlinux-themes-slim 1.2-5
 extra/bind-tools 9.13.5-1
-extra/chromium 71.0.3578.98-2
+extra/chromium 71.0.3578.98-3
 extra/expac 9-1
 extra/fakechroot 2.19-2
 extra/feh 3.1.1-1
@@ -127,7 +126,7 @@ extra/python2-virtualenv 16.0.0-1
 extra/python-virtualenv 16.0.0-1
 extra/rsync 3.1.3-1
 extra/slim 1.3.6-7
-extra/strace 4.25-1
+extra/strace 4.26-1
 extra/tree 1.8.0-1
 extra/ttf-dejavu 2.37-2
 extra/unrar 1:5.6.8-1
