@@ -13,12 +13,14 @@ community/iftop 1.0pre4-3
 community/iotop 0.6-6
 community/ipython2 5.8.0-2
 community/ipython 7.3.0-1
+community/libu2f-host 1.1.9-1
 community/lshw B.02.18-3
 community/lxc 1:3.1.0-1
 community/lxrandr 0.3.2-1
 community/netwatch 1.3.1_2-2
 community/pacgraph 20110629-4
 community/pacman-contrib 1.1.0-1
+community/pcsc-tools 1.5.4-1
 community/pv 1.6.6-2
 community/pwgen 2.08-1
 community/reflector 2019.3-1
@@ -36,7 +38,6 @@ core/ca-certificates-utils 20181109-1
 core/coreutils 8.31-1
 core/cryptsetup 2.1.0-1
 core/device-mapper 2.02.183-2
-core/dhcpcd 7.0.8-1
 core/dialog 1:1.3_20190211-1
 core/diffutils 3.7-1
 core/dosfstools 4.1-2
@@ -57,9 +58,9 @@ core/iputils 20180629.f6aac8d-4
 core/iw 5.0.1-1
 core/less 530-1
 core/licenses 20181104-1
-core/linux 5.0.3.arch1-1
-core/linux-headers 5.0.3.arch1-1
-core/linux-lts 4.19.30-1
+core/linux 5.0.4.arch1-1
+core/linux-headers 5.0.4.arch1-1
+core/linux-lts 4.19.31-1
 core/logrotate 3.15.0-1
 core/make 4.2.1-3
 core/man-db 2.8.5-2
@@ -93,6 +94,7 @@ extra/alsa-plugins 1.1.8-1
 extra/alsa-utils 1.1.8-1
 extra/archlinux-themes-slim 1.2-5
 extra/chromium 73.0.3683.86-1
+extra/dhcp 4.4.1-4
 extra/expac 9-1
 extra/feh 3.1.3-1
 extra/git 2.21.0-1
@@ -112,7 +114,6 @@ extra/python-virtualenv 16.0.0-1
 extra/rsync 3.1.3-1
 extra/slim 1.3.6-8
 extra/socat 1.7.3.2-4
-extra/strace 4.26-1
 extra/tree 1.8.0-1
 extra/ttf-dejavu 2.37-2
 extra/unrar 1:5.7.3-1
