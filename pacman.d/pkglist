@@ -1,4 +1,4 @@
-community/ansible 2.7.10-1
+community/ansible 2.8.0-1
 community/dmenu 4.9-1
 community/docker 1:18.09.6-1
 community/docker-compose 1.24.0-1
@@ -12,7 +12,7 @@ community/iftop 1.0pre4-3
 community/iotop 0.6-6
 community/ipython2 5.8.0-2
 community/ipython 7.5.0-1
-community/libu2f-host 1.1.9-1
+community/libu2f-host 1.1.10-1
 community/lshw B.02.18-3
 community/lxc 1:3.1.0-1
 community/lxrandr 0.3.2-1
@@ -27,7 +27,7 @@ community/reflector 2019.3-1
 community/ristretto 0.8.4-1
 community/scrot 0.8.18-1
 community/solidity 0.5.8-1
-community/tmux 2.9_a-1
+community/tmux 2.9_a-2
 community/tor 0.3.5.8-1
 community/zsh-syntax-highlighting 0.6.0-1
 core/autoconf 2.69-5
@@ -39,11 +39,12 @@ core/ca-certificates-utils 20181109-1
 core/coreutils 8.31-1
 core/cryptsetup 2.1.0-1
 core/device-mapper 2.02.184-4
+core/dhcpcd 7.2.1-1
 core/dialog 1:1.3_20190211-1
 core/diffutils 3.7-1
 core/dosfstools 4.1-2
-core/e2fsprogs 1.45.0-1
-core/file 5.36-1
+core/e2fsprogs 1.45.1-1
+core/file 5.37-1
 core/filesystem 2018.12-2
 core/findutils 4.6.0-4
 core/gawk 4.2.1-2
@@ -59,9 +60,9 @@ core/iputils 20180629.f6aac8d-4
 core/iw 5.0.1-1
 core/less 530-1
 core/licenses 20181104-1
-core/linux 5.0.13.arch1-1
-core/linux-headers 5.0.13.arch1-1
-core/linux-lts 4.19.42-1
+core/linux 5.1.4.arch1-1
+core/linux-headers 5.1.4.arch1-1
+core/linux-lts 4.19.44-1
 core/logrotate 3.15.0-1
 core/make 4.2.1-3
 core/man-db 2.8.5-2
@@ -77,7 +78,7 @@ core/pkgconf 1.6.1-1
 core/procps-ng 3.3.15-1
 core/psmisc 23.2-1
 core/sed 4.7-1
-core/shadow 4.6-2
+core/shadow 4.6-3
 core/sudo 1.8.27-1
 core/sysfsutils 2.1.0-10
 core/syslinux 6.04.pre2.r11.gbf6db5b4-1
@@ -90,12 +91,11 @@ core/vi 1:070224-3
 core/which 2.21-3
 core/wpa_supplicant 2:2.8-1
 core/xfsprogs 4.20.0-2
-extra/alsa-plugins 1.1.8-1
-extra/alsa-utils 1.1.8-1
+extra/alsa-plugins 1.1.9-2
+extra/alsa-utils 1.1.9-1
 extra/archlinux-themes-slim 1.2-5
-extra/chromium 74.0.3729.131-3
-extra/cmake 3.14.3-1
-extra/dhcp 4.4.1-4
+extra/chromium 74.0.3729.169-1
+extra/cmake 3.14.4-1
 extra/expac 9-1
 extra/feh 3.1.3-1
 extra/git 2.21.0-1
@@ -103,7 +103,7 @@ extra/gnu-netcat 0.7.1-7
 extra/htop 2.2.0-2
 extra/lsof 4.91-1
 extra/mercurial 5.0-1
-extra/mplayer 38125-5
+extra/mplayer 38139-1
 extra/mtools 4.0.23-1
 extra/nmap 7.70-3
 extra/ntp 4.2.8.p13-2
