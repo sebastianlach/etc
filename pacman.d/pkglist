@@ -6,6 +6,7 @@ community/docker-compose 1.24.0-1
 community/go-ethereum 1.8.27-1
 community/httpie 1.0.2-1
 community/hwinfo 21.60-2
+community/i3blocks 1.4-6
 community/i3lock 2.11.1-1
 community/i3status 2.12-2
 community/i3-wm 4.16.1-1
