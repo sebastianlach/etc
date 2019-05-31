@@ -1,4 +1,5 @@
 community/ansible 2.8.0-1
+community/aws-cli 1.16.169-1
 community/dmenu 4.9-1
 community/docker 1:18.09.6-1
 community/docker-compose 1.24.0-1
@@ -35,7 +36,7 @@ community/solidity 0.5.8-1
 community/task 2.5.1-2
 community/tmux 2.9_a-2
 community/tor 0.3.5.8-1
-community/yubikey-manager 2.1.0-1
+community/yubikey-manager 2.1.1-1
 community/zsh-syntax-highlighting 0.6.0-1
 core/autoconf 2.69-5
 core/automake 1.16.1-1
@@ -50,8 +51,8 @@ core/dhcpcd 7.2.1-1
 core/dialog 1:1.3_20190211-1
 core/diffutils 3.7-1
 core/dosfstools 4.1-2
-core/e2fsprogs 1.45.1-1
-core/file 5.37-1
+core/e2fsprogs 1.45.2-1
+core/file 5.37-2
 core/filesystem 2019.05-2
 core/findutils 4.6.0-4
 core/gawk 4.2.1-2
@@ -101,8 +102,9 @@ core/xfsprogs 4.20.0-2
 extra/alsa-plugins 1.1.9-2
 extra/alsa-utils 1.1.9-1
 extra/archlinux-themes-slim 1.2-5
+extra/bind-tools 9.14.2-1
 extra/chromium 74.0.3729.169-2
-extra/cmake 3.14.4-1
+extra/cmake 3.14.5-1
 extra/expac 9-1
 extra/feh 3.1.3-1
 extra/gimp 2.10.10-1
