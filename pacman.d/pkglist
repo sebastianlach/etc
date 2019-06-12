@@ -135,7 +135,6 @@ extra/ttf-dejavu 2.37-2
 extra/unrar 1:5.7.5-1
 extra/unzip 6.0-13
 extra/vim 8.1.1467-2
-extra/vinagre 3.22.0+35+gadcb63c-1
 extra/wget 1.20.3-1
 extra/xclip 0.13-2
 extra/xcursor-themes 1.0.6-1
@@ -147,7 +146,7 @@ extra/xorg-docs 1.7.1-2
 extra/xorg-fonts-100dpi 1.0.3-4
 extra/xorg-fonts-75dpi 1.0.3-4
 extra/xorg-server 1.20.5-1
-extra/xorg-sessreg 1.1.1-2
+extra/xorg-sessreg 1.1.2-1
 extra/xorg-x11perf 1.6.1-1
 extra/xorg-xbacklight 1.2.2-1
 extra/xorg-xcursorgen 1.0.7-1
