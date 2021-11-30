@@ -88,7 +88,6 @@ extra/ntp 4.2.8.p15-1
 extra/pavucontrol 1:4.0-2
 extra/postgresql 13.2-2
 extra/pulseaudio 14.2-3
-extra/python2-virtualenv 20.4.6-1
 extra/python-virtualenv 20.4.6-1
 extra/ristretto 0.10.0-3
 extra/rsync 3.2.3-3
