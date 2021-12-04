@@ -4,9 +4,6 @@
 /pacman.d/gnupg
 /docker/key.json
 
-# mounting
-/fstab
-
 # networking
 /hosts
 /hostname
