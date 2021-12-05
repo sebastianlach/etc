@@ -1,4 +1,5 @@
 community/acpi 1.7-3
+community/alacritty 0.9.0-2
 community/aws-cli 1.22.7-1
 community/dmenu 5.0-1
 community/docker 1:20.10.11-1
@@ -26,7 +27,6 @@ community/reflector 2021.7.8-1
 community/rofi 1.7.2-1
 community/sysstat 12.5.4-1
 community/tmux 3.2_a-1
-community/vim-airline 0.11-1
 community/vim-ctrlp 1.80-3
 community/zsh-syntax-highlighting 0.7.1-1
 core/autoconf 2.71-1
@@ -94,7 +94,6 @@ extra/wget 1.21.2-1
 extra/xclip 0.13-3
 extra/xf86-input-synaptics 1.9.1-3
 extra/xf86-video-intel 1:2.99.917+916+g31486f40-2
-extra/xfce4-terminal 0.8.10-2
 extra/xorg-docs 1.7.1-3
 extra/xorg-fonts-100dpi 1.0.3-7
 extra/xorg-fonts-75dpi 1.0.3-7
