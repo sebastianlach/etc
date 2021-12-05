@@ -6,9 +6,9 @@ community/docker 1:20.10.11-1
 community/docker-compose 2.2.0-1
 community/httpie 2.6.0-1
 community/hwinfo 21.78-2
-community/i3-wm 4.20.1-1
 community/i3blocks 1.5-3
 community/i3lock 2.13-1
+community/i3-wm 4.20.1-1
 community/iftop 1.0pre4-4
 community/iotop 0.6-8
 community/lshw B.02.19.2-3
@@ -27,7 +27,11 @@ community/reflector 2021.7.8-1
 community/rofi 1.7.2-1
 community/sysstat 12.5.4-1
 community/tmux 3.2_a-1
+community/vim-airline 0.11-1
+community/vim-airline-themes r1386.63b66df-1
 community/vim-ctrlp 1.80-3
+community/vim-fugitive 3.4-2
+community/vim-jedi 0.11.0-1
 community/zsh-syntax-highlighting 0.7.1-1
 core/autoconf 2.71-1
 core/automake 1.16.5-1
