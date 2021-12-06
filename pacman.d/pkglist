@@ -3,7 +3,7 @@ community/alacritty 0.9.0-2
 community/aws-cli 1.22.7-1
 community/dmenu 5.0-1
 community/docker 1:20.10.11-1
-community/docker-compose 2.2.0-1
+community/docker-compose 2.2.2-1
 community/httpie 2.6.0-1
 community/hwinfo 21.78-2
 community/i3blocks 1.5-3
