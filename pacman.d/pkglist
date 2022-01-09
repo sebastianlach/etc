@@ -1,6 +1,6 @@
 acpi 1.7-3
 alacritty 0.9.0-3
-alsa-plugins 1:1.2.6-1
+alsa-plugins 1:1.2.6-2
 alsa-utils 1.2.6-1
 archlinux-themes-slim 1.2-6
 autoconf 2.71-1
@@ -16,11 +16,11 @@ dialog 1:1.3_20211214-1
 diffutils 3.8-1
 dmenu 5.0-1
 docker 1:20.10.12-1
-docker-compose 2.2.2-1
+docker-compose 2.2.3-1
 dosfstools 4.2-1
 efibootmgr 17-2
 expac 10-5
-feh 3.7.2-1
+feh 3.8-1
 gcc 11.1.0-3
 gimp 2.10.30-1
 git 2.34.1-1
@@ -36,10 +36,10 @@ inetutils 2.2-1
 iotop 0.6-9
 iw 5.16-1
 keybase 5.9.0-1
-linux 5.15.12.arch1-1
+linux 5.15.13.arch1-1
 linux-firmware 20211027.1d00989-1
-linux-headers 5.15.12.arch1-1
-linux-lts 5.10.88-2
+linux-headers 5.15.13.arch1-1
+linux-lts 5.10.90-1
 logrotate 3.18.1-1
 lshw B.02.19.2-3
 lsof 4.94.0-1
@@ -47,10 +47,10 @@ lxc 1:4.0.11-2
 make 4.3-3
 man-db 2.9.4-2
 man-pages 5.13-1
-mercurial 6.0-3
+mercurial 6.0.1-1
 moc 1:2.5.2-3
 mplayer 38322-2
-mtools 1:4.0.36-1
+mtools 1:4.0.37-1
 netctl 1.26-1
 netwatch 1.3.1_2-2
 nmap 7.92-1
@@ -71,7 +71,7 @@ pulseaudio 15.0-1
 pv 1.6.20-1
 pwgen 2.08-2
 pyenv 2.2.3-1
-python-distlib 0.3.3-4
+python-distlib 0.3.4-1
 python-virtualenv 20.11.0-1
 reflector 2021.7.8-2
 ristretto 0.12.1-1
@@ -109,7 +109,7 @@ xfsprogs 5.14.2-1
 xorg-docs 1.7.1-3
 xorg-fonts-100dpi 1.0.3-7
 xorg-fonts-75dpi 1.0.3-7
-xorg-server 21.1.2-2
+xorg-server 21.1.3-1
 xorg-sessreg 1.1.2-2
 xorg-x11perf 1.6.1-2
 xorg-xbacklight 1.2.3-2
