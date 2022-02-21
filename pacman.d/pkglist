@@ -35,9 +35,9 @@ iftop
 inetutils
 iotop
 iw
-keybase
 linux
 linux-firmware
+linux-firmware-whence
 linux-headers
 linux-lts
 logrotate
@@ -48,7 +48,6 @@ make
 man-db
 man-pages
 mercurial
-moc
 mplayer
 mtools
 netctl
@@ -88,6 +87,7 @@ task
 texinfo
 timew
 tmux
+tor
 tree
 unrar
 unzip
@@ -104,7 +104,6 @@ wpa_supplicant
 xclip
 xf86-input-synaptics
 xf86-video-intel
-xfce4-terminal
 xfsprogs
 xorg-docs
 xorg-fonts-100dpi
