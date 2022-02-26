@@ -2,6 +2,7 @@ acpi
 alacritty
 alsa-plugins
 alsa-utils
+arch-install-scripts
 archlinux-themes-slim
 autoconf
 automake
@@ -21,6 +22,7 @@ dosfstools
 efibootmgr
 expac
 feh
+firefox
 gcc
 gimp
 git
@@ -56,7 +58,6 @@ nmap
 ntp
 openssh
 openssl-1.0
-opera
 pacgraph
 pacman-contrib
 pam-u2f
