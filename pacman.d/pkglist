@@ -8,9 +8,11 @@ autoconf
 automake
 aws-cli
 base
+base-devel
 bc
 bind
 binutils
+bison
 cmake
 dhcpcd
 dialog
@@ -23,6 +25,7 @@ efibootmgr
 expac
 feh
 firefox
+flex
 gcc
 gimp
 git
