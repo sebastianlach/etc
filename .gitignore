@@ -1,31 +1,43 @@
-# secrets
-/shadow
-/dhcpcd.secret
-/pacman.d/gnupg
-/docker/key.json
+*
 
-# networking
-/hosts
-/hostname
-/resolv.conf
-/netctl/wireless-*
+# repository
+!LICENSE
+!README.*
 
-# certificates
-/ca-certificates/*
-/ssl/certs/*
+# git
+!.gitignore
 
-# timezone
-/localtime
+# fstab
+!fstab
 
-# caches
-/ld.so.cache
+# kernel
+!mkinitcpio.conf
+!mkinitcpio.d
+!mkinitcpio.d/linux.preset
+!mkinitcpio.d/linux-lts.preset
 
-# backups
-/passwd-
-/shadow-
-/gshadow-
-/group-
+# pacman
+!pacman.conf
+!pacman.d
+!pacman.d/pkglist
+!pacman.d/mirrorlist
 
-# hidden
-/.updated
-/.pwd.lock
+# slim
+!slim.conf
+
+# locale
+!locale.conf
+!locale.gen
+
+# systemd
+!systemd
+!systemd/logind.conf
+
+# sudo
+!sudoers
+
+# X11
+!X11
+!X11/xorg.conf.d
+!X11/xorg.conf.d/20-intel.conf
+!X11/xorg.conf.d/50-synaptics.conf
