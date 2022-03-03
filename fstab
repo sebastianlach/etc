@@ -1,5 +1,5 @@
-LABEL=BOOT	/boot		vfat	rw,relatime	0 2
-LABEL=ROOT	/		ext4	rw,relatime,block_validity,delalloc,nojournal_checksum,barrier,user_xattr,acl	0 1
-LABEL=HOME	/home		ext4	rw,relatime,block_validity,delalloc,nojournal_checksum,barrier,user_xattr,acl	0 2
-LABEL=DATA	/opt		ext4	rw,nofail,relatime,noatime,block_validity,delalloc,nojournal_checksum,barrier,user_xattr,acl	0 2
-LABEL=DOCKER	/var/lib/docker		ext4    rw,nofail,relatime,noatime,block_validity,delalloc,nojournal_checksum,barrier,user_xattr,acl	0 2
+LABEL=BOOT    /boot            vfat  rw,norelatime,noatime                                     0  2
+LABEL=ROOT    /                ext4  rw,norelatime,noatime,delalloc                            0  1
+LABEL=HOME    /home            ext4  rw,norelatime,noatime,delalloc                            0  2
+LABEL=DATA    /opt             ext4  rw,norelatime,noatime,delalloc,nojournal_checksum,nofail  0  2
+LABEL=DOCKER  /var/lib/docker  ext4  rw,norelatime,noatime,delalloc,nojournal_checksum,nofail  0  2
