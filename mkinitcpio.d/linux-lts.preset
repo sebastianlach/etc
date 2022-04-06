@@ -1,0 +1,7 @@
+ALL_config="/etc/mkinitcpio.conf"
+ALL_kver="/boot/vmlinuz-linux-lts"
+PRESETS=('default' 'fallback')
+default_image="/boot/initramfs-linux-lts.img"
+default_options="-S autodetect"
+fallback_image="/boot/initramfs-linux-lts-fallback.img"
+fallback_options="-S autodetect"
